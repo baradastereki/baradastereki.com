@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://baradastereki.github.io/</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/blog-list.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/tnx.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/psi.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/video/video-iframe.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/blog-single.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/old.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/index.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://baradastereki.github.io/404.html</loc>
+  <lastmod>2024-09-23T17:02:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
